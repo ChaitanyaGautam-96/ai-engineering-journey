@@ -1,4 +1,8 @@
-# Daily Learning Log – AI Engineering Journey
+## Day 1 – Vector Basics & Cosine Similarity
+**Focus:** Foundations for AI & LLM systems  
+- Set up Python environment
+- Learned vector representation
+- Implemented cosine similarity using NumPy
+- Understood how similarity search works in AI systems
 
-This log tracks **daily progress, learnings, experiments, and implementations**.
-Each entry corresponds to at least one meaningful commit.
+**Commit:** Vector similarity example (Python)
